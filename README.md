@@ -6,5 +6,5 @@ this report is a result of my exploration on [Red Wine Quality dataset](https://
 
 got back to the [source repo](https://github.com/Misk-DSI/individual-assignment-2-Salma7577).
 
-link to the[wine report](./wine_report.html) html file.
+link to the [wine report](./wine_report.html) html file or go to the [live report](http://misk-dsi.github.io/individual-assignment-2-Salma7577/).
 
